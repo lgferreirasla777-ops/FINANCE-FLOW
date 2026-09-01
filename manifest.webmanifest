@@ -1,9 +1,0 @@
-{
-  "name": "Finance Flow",
-  "short_name": "FinanceFlow",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0B2545",
-  "theme_color": "#0B2545",
-  "icons": []
-}
